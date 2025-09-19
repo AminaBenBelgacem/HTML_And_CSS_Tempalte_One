@@ -264,7 +264,9 @@ background-color: #f6f6f6 ;
     .services .services-content .serv
     {
         flex-direction: column;
-        text-align: center;
+        justify-content: center;
+       align-items: center;
+
     }
     .services .container .services-content .col .image
 {
