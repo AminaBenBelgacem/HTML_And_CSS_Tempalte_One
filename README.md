@@ -2,6 +2,7 @@
 HTML and CSS Project
 # Decsription 
 This project demonstrates a simple web page, including:
+
 -Responsive Design 
 -Comfortable colors and fonts 
 -Well-structured HTML elements
